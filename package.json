@@ -1,0 +1,20 @@
+{
+  "name": "panzers",
+  "version": "1.0.0",
+  "description": "panders io game",
+  "main": "src/server/server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "panzers",
+    "io",
+    "games"
+  ],
+  "author": "orangesan",
+  "license": "ISC"
+}
